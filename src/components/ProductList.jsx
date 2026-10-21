@@ -11,7 +11,7 @@ import {
   RefreshCw,
 } from "lucide-react";
 
-import { getBeautyProducts } from "../services/productApi.js";
+import { getBeautyProducts } from "../services/ProductApi.js";
 import ProductCard from "./ProductCard";
 
 const filters = [
